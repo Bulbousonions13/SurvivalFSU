@@ -1,0 +1,32 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0x1287)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   24.21.13.9836
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\edwar\Desktop\FSU\Software Engineering\FSUGamePCBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.967111 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2db0 -> priority: 1 
+  Thread -> id: 42a0 -> priority: 1 
+  Thread -> id: 3e4 -> priority: 1 
+  Thread -> id: 2be4 -> priority: 1 
